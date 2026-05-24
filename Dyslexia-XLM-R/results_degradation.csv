@@ -1,0 +1,13 @@
+condition,task,english_degradation_pct,bangla_degradation_pct
+phon_top5,voiced_unvoiced,0.0,25.991053175519184
+phon_top5,is_real_word,4.0000000000000036,8.947289072976432
+phon_top5,syllable_count,45.41040522525451,-12.70977465200602
+phon_top10,voiced_unvoiced,0.0,19.90835246498676
+phon_top10,is_real_word,4.006410256410254,8.947289072976432
+phon_top10,syllable_count,64.38066948662787,1.9648655727634294
+phon_top20,voiced_unvoiced,6.666666666666665,22.363326398520574
+phon_top20,is_real_word,25.466893039049232,39.924134660976776
+phon_top20,syllable_count,65.13476091236639,-0.7033775375711477
+random_top10,voiced_unvoiced,0.0,-1.299635280217798
+random_top10,is_real_word,0.0,0.0
+random_top10,syllable_count,2.0380016341737615,3.666296574075145

@@ -1,0 +1,10 @@
+Dyslexia-XLM-R/dys-env/
+dyslexia-LLM/dys-llm-env/
+dyslexia-bloom/dys-env-bloom/
+dyslexia-bloom/unsloth_compiled_cache
+dyslexia-LLM/unsloth_compiled_cache/
+
+dyslexia-LLM/representations/
+dyslexia-bloom/representations/
+Dyslexia-XLM-R/representations/
+

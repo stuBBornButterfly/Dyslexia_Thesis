@@ -1,0 +1,401 @@
+id,language,task_category,word,ipa,syllable_count,phonological_complexity,orthographic_transparency,voiced_unvoiced,is_real_word,has_consonant_cluster,has_irregular_mapping,difficulty,pair_id,matched_pair_id,dissertation_source,error_type_targeted,notes
+MP_EN_001,english,minimal_pair,bat,bæt,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_001,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_002,english,minimal_pair,pat,pæt,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_001,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_003,english,minimal_pair,bear,bɛər,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_002,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_004,english,minimal_pair,pear,pɛər,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_002,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_005,english,minimal_pair,bin,bɪn,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_003,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_006,english,minimal_pair,pin,pɪn,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_003,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_007,english,minimal_pair,buy,baɪ,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_004,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_008,english,minimal_pair,pie,paɪ,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_004,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_009,english,minimal_pair,den,dɛn,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_005,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_010,english,minimal_pair,ten,tɛn,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_005,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_011,english,minimal_pair,doe,doʊ,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_006,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_012,english,minimal_pair,toe,toʊ,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_006,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_013,english,minimal_pair,dime,daɪm,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_007,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_014,english,minimal_pair,time,taɪm,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_007,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_015,english,minimal_pair,gold,goʊld,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_008,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_016,english,minimal_pair,cold,koʊld,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_008,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_017,english,minimal_pair,gum,gʌm,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_009,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_018,english,minimal_pair,come,kʌm,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_009,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_019,english,minimal_pair,goat,goʊt,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_010,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_020,english,minimal_pair,coat,koʊt,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_010,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_021,english,minimal_pair,jeer,dʒɪər,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_011,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_022,english,minimal_pair,cheer,tʃɪər,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_011,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_023,english,minimal_pair,vine,vaɪn,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_012,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_024,english,minimal_pair,fine,faɪn,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_012,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_025,english,minimal_pair,view,vjuː,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_013,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_026,english,minimal_pair,few,fjuː,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_013,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_027,english,minimal_pair,zip,zɪp,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_014,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_028,english,minimal_pair,sip,sɪp,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_014,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_029,english,minimal_pair,zoo,zuː,1,low,transparent,voiced,True,False,False,easy,PAIR_EN_VU_015,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_EN_030,english,minimal_pair,sue,suː,1,low,transparent,unvoiced,True,False,False,easy,PAIR_EN_VU_015,,generated,voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_EN_031,english,minimal_pair,bit,bɪt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_016,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_032,english,minimal_pair,beat,biːt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_016,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_033,english,minimal_pair,cat,kæt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_017,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_034,english,minimal_pair,cut,kʌt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_017,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_035,english,minimal_pair,ship,ʃɪp,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_018,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_036,english,minimal_pair,sheep,ʃiːp,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_018,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_037,english,minimal_pair,cot,kɒt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_019,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_038,english,minimal_pair,caught,kɔːt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_019,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_039,english,minimal_pair,full,fʊl,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_020,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_040,english,minimal_pair,fool,fuːl,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_020,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_041,english,minimal_pair,bed,bɛd,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_021,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_042,english,minimal_pair,bad,bæd,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_021,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_043,english,minimal_pair,pen,pɛn,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_022,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_044,english,minimal_pair,pan,pæn,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_022,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_045,english,minimal_pair,lock,lɒk,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_023,,generated,vowel_substitution,vowel contrast pair member 1
+MP_EN_046,english,minimal_pair,lack,læk,1,medium,transparent,na,True,False,False,easy,PAIR_EN_VOW_023,,generated,vowel_substitution,vowel contrast pair member 2
+MP_EN_047,english,minimal_pair,light,laɪt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_024,,generated,substitution,place/manner pair member 1
+MP_EN_048,english,minimal_pair,right,raɪt,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_024,,generated,substitution,place/manner pair member 2
+MP_EN_049,english,minimal_pair,think,θɪŋk,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_025,,generated,substitution,place/manner pair member 1
+MP_EN_050,english,minimal_pair,sink,sɪŋk,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_025,,generated,substitution,place/manner pair member 2
+MP_EN_051,english,minimal_pair,cheap,tʃiːp,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_026,,generated,substitution,place/manner pair member 1
+MP_EN_052,english,minimal_pair,sheep,ʃiːp,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_026,,generated,substitution,place/manner pair member 2
+MP_EN_053,english,minimal_pair,mail,meɪl,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_027,,generated,substitution,place/manner pair member 1
+MP_EN_054,english,minimal_pair,nail,neɪl,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_027,,generated,substitution,place/manner pair member 2
+MP_EN_055,english,minimal_pair,wave,weɪv,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_028,,generated,substitution,place/manner pair member 1
+MP_EN_056,english,minimal_pair,rave,reɪv,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_028,,generated,substitution,place/manner pair member 2
+MP_EN_057,english,minimal_pair,yes,jɛs,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_029,,generated,substitution,place/manner pair member 1
+MP_EN_058,english,minimal_pair,less,lɛs,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_029,,generated,substitution,place/manner pair member 2
+MP_EN_059,english,minimal_pair,fish,fɪʃ,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_030,XLING_009,generated,substitution,place/manner pair member 1
+MP_EN_060,english,minimal_pair,dish,dɪʃ,1,medium,transparent,na,True,False,False,easy,PAIR_EN_PLA_030,,generated,substitution,place/manner pair member 2
+MP_BN_061,bangla,minimal_pair,কাল,kal,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_031,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_062,bangla,minimal_pair,গাল,gal,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_031,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_063,bangla,minimal_pair,পান,pan,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_032,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_064,bangla,minimal_pair,বান,ban,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_032,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_065,bangla,minimal_pair,তাল,t̪al,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_033,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_066,bangla,minimal_pair,দাল,d̪al,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_033,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_067,bangla,minimal_pair,কান,kan,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_034,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_068,bangla,minimal_pair,গান,gan,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_034,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_069,bangla,minimal_pair,দিন,d̪in,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_035,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_070,bangla,minimal_pair,তিন,t̪in,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_035,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_071,bangla,minimal_pair,বাত,bat̪,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_036,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_072,bangla,minimal_pair,পাত,pat̪,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_036,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_073,bangla,minimal_pair,ডাল,ɖal,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_037,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_074,bangla,minimal_pair,টাল,ʈal,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_037,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_075,bangla,minimal_pair,গরম,gɔrɔm,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_038,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_076,bangla,minimal_pair,করম,kɔrɔm,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_038,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_077,bangla,minimal_pair,গাছ,gatʃʰ,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_039,XLING_010,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_078,bangla,minimal_pair,কাছ,katʃʰ,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_039,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_079,bangla,minimal_pair,জাম,dʒam,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_040,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_080,bangla,minimal_pair,চাম,tʃam,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_040,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_081,bangla,minimal_pair,জল,dʒɔl,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_041,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_082,bangla,minimal_pair,চল,tʃɔl,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_041,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_083,bangla,minimal_pair,বাড়ি,baɽi,2,low,transparent,na,True,False,False,easy,PAIR_BN_VU_042,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_084,bangla,minimal_pair,পাড়ি,paɽi,2,low,transparent,na,True,False,False,easy,PAIR_BN_VU_042,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_085,bangla,minimal_pair,দাঁত,d̪ãt̪,2,low,transparent,na,True,False,False,easy,PAIR_BN_VU_043,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_086,bangla,minimal_pair,তাঁত,t̪ãt̪,2,low,transparent,na,True,False,False,easy,PAIR_BN_VU_043,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_087,bangla,minimal_pair,গাড়ি,gaɽi,2,low,transparent,na,True,False,False,easy,PAIR_BN_VU_044,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_088,bangla,minimal_pair,কাড়ি,kaɽi,2,low,transparent,na,True,False,False,easy,PAIR_BN_VU_044,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_089,bangla,minimal_pair,দল,d̪ɔl,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_045,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 1
+MP_BN_090,bangla,minimal_pair,তল,t̪ɔl,1,low,transparent,na,True,False,False,easy,PAIR_BN_VU_045,,Findings ch.6 (voiced sounds flagged as core difficulty),voiced_unvoiced_confusion,voiced-unvoiced pair member 2
+MP_BN_091,bangla,minimal_pair,খাটি,kʰaʈi,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_046,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_092,bangla,minimal_pair,কাটি,kaʈi,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_046,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_093,bangla,minimal_pair,ভর,bʰɔr,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_047,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_094,bangla,minimal_pair,বর,bɔr,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_047,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_095,bangla,minimal_pair,ফাঁসি,pʰãʃi,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_048,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_096,bangla,minimal_pair,পাশি,paʃi,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_048,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_097,bangla,minimal_pair,থালা,t̪ʰala,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_049,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_098,bangla,minimal_pair,তালা,t̪ala,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_049,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_099,bangla,minimal_pair,ধান,d̪ʰan,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_050,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_100,bangla,minimal_pair,দান,d̪an,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_050,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_101,bangla,minimal_pair,ঢাকা,ɖʰaka,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_051,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_102,bangla,minimal_pair,ডাকা,ɖaka,2,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_051,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_103,bangla,minimal_pair,ছবি,tʃʰɔbi,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_052,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_104,bangla,minimal_pair,চবি,tʃɔbi,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_052,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_105,bangla,minimal_pair,ঝড়,dʒʰɔɽ,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_053,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 1
+MP_BN_106,bangla,minimal_pair,জড়,dʒɔɽ,1,medium,transparent,na,True,False,False,easy,PAIR_BN_ASP_053,,Findings ch.6 (Bangla-specific contrast),aspiration_confusion,aspirated-unaspirated pair member 2
+MP_BN_107,bangla,minimal_pair,ফুল,pʰul,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_054,,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_108,bangla,minimal_pair,ফাল,pʰal,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_054,,generated,vowel_substitution,vowel contrast pair member 2
+MP_BN_109,bangla,minimal_pair,জিন,dʒin,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_055,,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_110,bangla,minimal_pair,জান,dʒan,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_055,,generated,vowel_substitution,vowel contrast pair member 2
+MP_BN_111,bangla,minimal_pair,মুখ,mukʰ,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_056,,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_112,bangla,minimal_pair,মাখ,makʰ,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_056,,generated,vowel_substitution,vowel contrast pair member 2
+MP_BN_113,bangla,minimal_pair,পিতা,pit̪a,2,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_057,,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_114,bangla,minimal_pair,পাতা,pat̪a,2,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_057,,generated,vowel_substitution,vowel contrast pair member 2
+MP_BN_115,bangla,minimal_pair,নাম,nam,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_058,,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_116,bangla,minimal_pair,নিম,nim,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_058,,generated,vowel_substitution,vowel contrast pair member 2
+MP_BN_117,bangla,minimal_pair,বই,bɔi,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_059,XLING_008,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_118,bangla,minimal_pair,ভাই,bʰai,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_059,,generated,vowel_substitution,vowel contrast pair member 2
+MP_BN_119,bangla,minimal_pair,চোখ,tʃokʰ,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_060,,generated,vowel_substitution,vowel contrast pair member 1
+MP_BN_120,bangla,minimal_pair,চাখ,tʃakʰ,1,medium,transparent,na,True,False,False,easy,PAIR_BN_VOW_060,,generated,vowel_substitution,vowel contrast pair member 2
+PW_EN_001,english,pseudoword,blip,blɪp,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_002,english,pseudoword,flonk,flɒŋk,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_003,english,pseudoword,grend,grɛnd,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_004,english,pseudoword,kreft,krɛft,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_005,english,pseudoword,plome,ploʊm,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_006,english,pseudoword,snurp,snɜːrp,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_007,english,pseudoword,traft,træft,1,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_008,english,pseudoword,vung,vʌŋ,1,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_009,english,pseudoword,merglen,mɜːrglən,2,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_010,english,pseudoword,faston,fæstən,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_011,english,pseudoword,brelnik,brɛlnɪk,2,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_012,english,pseudoword,crampish,kræmpɪʃ,2,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_013,english,pseudoword,dormate,dɔːrmeɪt,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_014,english,pseudoword,wibblet,wɪblət,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_015,english,pseudoword,kandor,kændər,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_016,english,pseudoword,stippet,stɪpət,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_017,english,pseudoword,frindle,frɪndəl,2,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_018,english,pseudoword,glombush,glɒmbʊʃ,2,medium,transparent,na,False,True,False,medium,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_019,english,pseudoword,gampelar,gæmpəlɑːr,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_020,english,pseudoword,blikenose,blɪkənoʊz,3,high,transparent,na,False,True,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_021,english,pseudoword,stranceful,strænsfəl,3,high,transparent,na,False,True,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_022,english,pseudoword,prombulate,prɒmbjuleɪt,3,high,transparent,na,False,True,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_023,english,pseudoword,tendoric,tɛndɔːrɪk,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_024,english,pseudoword,krelmiston,krɛlmɪstən,3,high,transparent,na,False,True,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_EN_025,english,pseudoword,spanderly,spændərli,3,high,transparent,na,False,True,False,hard,,,generated,pseudoword_decoding,phonotactically legal English nonword
+PW_BN_001,bangla,pseudoword,নিদা,nid̪a,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_002,bangla,pseudoword,পেলু,pelu,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_003,bangla,pseudoword,মুঢি,muɖʰi,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_004,bangla,pseudoword,কোসা,kosa,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_005,bangla,pseudoword,লিভু,libʰu,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_006,bangla,pseudoword,রেখি,rekʰi,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_007,bangla,pseudoword,তুপা,t̪upa,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_008,bangla,pseudoword,ছেমু,tʃʰemu,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_009,bangla,pseudoword,গিভোন,gibʰon,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_010,bangla,pseudoword,পেলরা,pelra,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_011,bangla,pseudoword,কুবিম,kubim,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_012,bangla,pseudoword,তোরিল,t̪oril,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_013,bangla,pseudoword,ভুজান,bʰudʒan,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_014,bangla,pseudoword,সেপিক,ʃepik,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_015,bangla,pseudoword,লিখান,likʰan,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_016,bangla,pseudoword,রিভোস,ribʰoʃ,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_017,bangla,pseudoword,মুতেপ,mut̪ep,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_018,bangla,pseudoword,খেদান,kʰed̪an,2,medium,transparent,na,False,False,False,medium,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_019,bangla,pseudoword,কেমিরাপ,kemirap,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_020,bangla,pseudoword,লুফেতান,lupʰet̪an,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_021,bangla,pseudoword,পিনচেলু,pintʃelu,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_022,bangla,pseudoword,রাবিকোম,rabikom,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_023,bangla,pseudoword,তেমুরাব,t̪emurab,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_024,bangla,pseudoword,খিজোলে,kʰidʒole,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+PW_BN_025,bangla,pseudoword,সাবিরেপ,ʃabirep,3,high,transparent,na,False,False,False,hard,,,generated,pseudoword_decoding,phonotactically legal Bangla nonword — needs native verification
+RW_EN_001,english,real_word,clip,klɪp,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_002,english,real_word,plonk,plɒŋk,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_003,english,real_word,trend,trɛnd,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_004,english,real_word,draft,dræft,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_005,english,real_word,plate,pleɪt,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_006,english,real_word,scarf,skɑːrf,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_007,english,real_word,graft,græft,1,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_008,english,real_word,lung,lʌŋ,1,low,transparent,na,True,False,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_009,english,real_word,morgen,mɔːrgən,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_010,english,real_word,captain,kæptɪn,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_011,english,real_word,trinket,trɪŋkət,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_012,english,real_word,trumpet,trʌmpət,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_013,english,real_word,donate,doʊneɪt,2,low,transparent,na,True,False,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_014,english,real_word,widget,wɪdʒət,2,low,transparent,na,True,False,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_015,english,real_word,matter,mætər,2,low,transparent,na,True,False,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_016,english,real_word,sippet,sɪpət,2,low,transparent,na,True,False,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_017,english,real_word,simple,sɪmpəl,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_018,english,real_word,tomboys,tɒmbɔɪz,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_019,english,real_word,calculator,kælkjəleɪtər,4,medium,transparent,na,True,False,False,medium,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_020,english,real_word,ridiculous,rɪdɪkjələs,4,medium,transparent,na,True,False,False,medium,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_021,english,real_word,beautiful,bjuːtɪfəl,3,medium,transparent,na,True,True,False,medium,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_022,english,real_word,dominate,dɒmɪneɪt,3,medium,transparent,na,True,True,False,medium,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_023,english,real_word,magnetic,mægnɛtɪk,3,medium,transparent,na,True,False,False,medium,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_024,english,real_word,kremlin,krɛmlɪn,2,low,transparent,na,True,True,False,easy,,,generated,none,real word matched to pseudoword in syllable structure
+RW_EN_025,english,real_word,masterly,mæstərli,3,medium,transparent,na,True,True,False,medium,,,generated,none,real word matched to pseudoword in syllable structure
+RW_BN_001,bangla,real_word,মাটি,maʈi,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_002,bangla,real_word,পানি,pani,2,low,transparent,na,True,False,False,easy,,XLING_001,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_003,bangla,real_word,নদী,nɔd̪i,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_004,bangla,real_word,কোলা,kola,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_005,bangla,real_word,ভাবা,bʰaba,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_006,bangla,real_word,রাখি,rakʰi,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_007,bangla,real_word,টুপি,ʈupi,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_008,bangla,real_word,ছেলে,tʃʰele,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_009,bangla,real_word,গগন,gɔgɔn,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_010,bangla,real_word,পেলব,pelɔb,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_011,bangla,real_word,কুমির,kumir,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_012,bangla,real_word,কোরাল,koral,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_013,bangla,real_word,ভুবন,bʰubɔn,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_014,bangla,real_word,সাপের,ʃaper,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_015,bangla,real_word,লেখক,lekʰɔk,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_016,bangla,real_word,রবিন,rɔbin,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_017,bangla,real_word,মুখর,mukʰɔr,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_018,bangla,real_word,খবর,kʰɔbɔr,2,low,transparent,na,True,False,False,easy,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_019,bangla,real_word,কারিগর,karigɔr,3,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_020,bangla,real_word,লোকেশান,lokeʃan,3,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_021,bangla,real_word,পরিচয়,pɔritʃɔj,3,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_022,bangla,real_word,রবিবার,rɔbibar,3,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_023,bangla,real_word,তেলাপোকা,t̪elapoka,4,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_024,bangla,real_word,খেজুরের,kʰedʒurer,3,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+RW_BN_025,bangla,real_word,সাবধান,ʃabd̪ʰan,3,medium,transparent,na,True,False,False,medium,,,generated,none,real Bangla word matched to pseudoword structure
+MS_EN_001,english,multisyllabic,cat,kæt,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable English word
+MS_EN_002,english,multisyllabic,dog,dɒg,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable English word
+MS_EN_003,english,multisyllabic,sun,sʌn,1,low,transparent,na,True,False,False,easy,,XLING_006,generated,none,1-syllable English word
+MS_EN_004,english,multisyllabic,big,bɪg,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable English word
+MS_EN_005,english,multisyllabic,run,rʌn,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable English word
+MS_EN_006,english,multisyllabic,water,wɔːtər,2,low,transparent,na,True,False,False,easy,,XLING_001,generated,none,2-syllable English word
+MS_EN_007,english,multisyllabic,paper,peɪpər,2,low,transparent,na,True,False,False,easy,,XLING_002,generated,none,2-syllable English word
+MS_EN_008,english,multisyllabic,table,teɪbəl,2,low,transparent,na,True,False,False,easy,,,generated,none,2-syllable English word
+MS_EN_009,english,multisyllabic,garden,gɑːrdən,2,low,transparent,na,True,False,False,easy,,XLING_003,generated,none,2-syllable English word
+MS_EN_010,english,multisyllabic,window,wɪndoʊ,2,low,transparent,na,True,False,False,easy,,,generated,none,2-syllable English word
+MS_EN_011,english,multisyllabic,banana,bənænə,3,medium,transparent,na,True,False,False,medium,,,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_012,english,multisyllabic,computer,kəmpjuːtər,3,medium,transparent,na,True,False,False,medium,,,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_013,english,multisyllabic,hospital,hɒspɪtəl,3,medium,transparent,na,True,False,False,medium,,XLING_004,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_014,english,multisyllabic,family,fæmɪli,3,medium,transparent,na,True,False,False,medium,,XLING_005,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_015,english,multisyllabic,tomorrow,təmɒroʊ,3,medium,transparent,na,True,False,False,medium,,,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_016,english,multisyllabic,calendar,kælɪndər,3,medium,transparent,na,True,False,False,medium,,,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_017,english,multisyllabic,telephone,tɛlɪfoʊn,3,medium,transparent,na,True,False,False,medium,,,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_018,english,multisyllabic,beautiful,bjuːtɪfəl,3,medium,transparent,na,True,False,False,medium,,,generated,multisyllabic_breakdown,3-syllable English word
+MS_EN_019,english,multisyllabic,vegetable,vɛdʒtəbəl,4,high,transparent,na,True,False,False,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_020,english,multisyllabic,helicopter,hɛlɪkɒptər,4,high,transparent,na,True,False,False,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_021,english,multisyllabic,geography,dʒiɒgrəfi,4,high,opaque,na,True,True,True,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_022,english,multisyllabic,mathematics,mæθəmætɪks,4,high,transparent,na,True,True,False,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_023,english,multisyllabic,photography,fətɒgrəfi,4,high,opaque,na,True,False,True,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_024,english,multisyllabic,dictionary,dɪkʃəneri,4,high,transparent,na,True,False,False,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_025,english,multisyllabic,alligator,ælɪgeɪtər,4,high,transparent,na,True,False,False,hard,,,generated,multisyllabic_breakdown,4-syllable English word
+MS_EN_026,english,multisyllabic,pronunciation,prənʌnsieɪʃən,5,high,opaque,na,True,True,True,hard,,,generated,multisyllabic_breakdown,5-syllable English word
+MS_EN_027,english,multisyllabic,examination,ɪgzæmɪneɪʃən,5,high,transparent,na,True,False,False,hard,,,generated,multisyllabic_breakdown,5-syllable English word
+MS_EN_028,english,multisyllabic,university,juːnɪvɜːrsɪti,5,high,transparent,na,True,False,False,hard,,,generated,multisyllabic_breakdown,5-syllable English word
+MS_EN_029,english,multisyllabic,congratulations,kəngrætʃəleɪʃənz,5,high,transparent,na,True,True,False,hard,,,generated,multisyllabic_breakdown,5-syllable English word
+MS_EN_030,english,multisyllabic,responsibility,rɪspɒnsɪbɪlɪti,6,high,transparent,na,True,True,False,hard,,,generated,multisyllabic_breakdown,6-syllable English word
+MS_BN_001,bangla,multisyllabic,মা,ma,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable; conjunct: False
+MS_BN_002,bangla,multisyllabic,বই,bɔi,1,low,transparent,na,True,False,False,easy,,XLING_008,generated,none,1-syllable; conjunct: False
+MS_BN_003,bangla,multisyllabic,ঘর,gʰɔr,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable; conjunct: False
+MS_BN_004,bangla,multisyllabic,জল,dʒɔl,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable; conjunct: False
+MS_BN_005,bangla,multisyllabic,ফুল,pʰul,1,low,transparent,na,True,False,False,easy,,,generated,none,1-syllable; conjunct: False
+MS_BN_006,bangla,multisyllabic,বাড়ি,baɽi,2,low,transparent,na,True,False,False,easy,,,generated,none,2-syllable; conjunct: False
+MS_BN_007,bangla,multisyllabic,পানি,pani,2,low,transparent,na,True,False,False,easy,,XLING_001,generated,none,2-syllable; conjunct: False
+MS_BN_008,bangla,multisyllabic,রাত্রি,rat̪ri,2,low,opaque,na,True,True,True,easy,,,generated,none,2-syllable; conjunct: True
+MS_BN_009,bangla,multisyllabic,মাটি,maʈi,2,low,transparent,na,True,False,False,easy,,,generated,none,2-syllable; conjunct: False
+MS_BN_010,bangla,multisyllabic,কলম,kɔlɔm,2,low,transparent,na,True,False,False,easy,,,generated,none,2-syllable; conjunct: False
+MS_BN_011,bangla,multisyllabic,জানালা,dʒanala,3,medium,transparent,na,True,False,False,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_012,bangla,multisyllabic,দরজা,d̪ɔrdʒa,3,medium,transparent,na,True,False,False,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_013,bangla,multisyllabic,পরিবার,pɔribar,3,medium,transparent,na,True,False,False,medium,,XLING_005,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_014,bangla,multisyllabic,কাহিনী,kahini,3,medium,transparent,na,True,False,False,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_015,bangla,multisyllabic,পাঠশালা,paʈʰʃala,3,medium,transparent,na,True,False,False,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_016,bangla,multisyllabic,ভালবাসা,bʰalobaʃa,3,medium,transparent,na,True,False,False,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_017,bangla,multisyllabic,বিদ্যালয়,bid̪d̪ʰalɔj,3,medium,opaque,na,True,True,True,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: True
+MS_BN_018,bangla,multisyllabic,অসুখ,ɔʃukʰ,3,medium,transparent,na,True,False,False,medium,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,3-syllable; conjunct: False
+MS_BN_019,bangla,multisyllabic,বাংলাদেশ,baŋlad̪eʃ,4,high,transparent,na,True,False,False,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: False
+MS_BN_020,bangla,multisyllabic,রাজধানী,radʒd̪ʰani,4,high,transparent,na,True,False,False,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: False
+MS_BN_021,bangla,multisyllabic,পারিবারিক,paribarik,4,high,transparent,na,True,False,False,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: False
+MS_BN_022,bangla,multisyllabic,প্রাণিবিদ্যা,pranibid̪d̪ʰa,4,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: True
+MS_BN_023,bangla,multisyllabic,ছাত্রছাত্রী,tʃʰatrotʃʰatri,4,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: True
+MS_BN_024,bangla,multisyllabic,শিক্ষাব্যবস্থা,ʃikkʰabbɔbɔst̪ʰa,4,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: True
+MS_BN_025,bangla,multisyllabic,বৈজ্ঞানিক,bɔiggʰanik,4,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: True
+MS_BN_026,bangla,multisyllabic,বিশ্ববিদ্যালয়,biʃʃobid̪d̪ʰalɔj,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,5-syllable; conjunct: True
+MS_BN_027,bangla,multisyllabic,প্রতিবেদন,prɔt̪ibed̪ɔn,4,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,4-syllable; conjunct: True
+MS_BN_028,bangla,multisyllabic,ব্যাকরণবিদ,bækɔrɔnbid̪,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,5-syllable; conjunct: True
+MS_BN_029,bangla,multisyllabic,শিক্ষাপ্রতিষ্ঠান,ʃikkʰaprɔt̪iʃʈʰan,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,5-syllable; conjunct: True
+MS_BN_030,bangla,multisyllabic,প্রকৃতিবিজ্ঞান,prɔkrit̪ibiggʰan,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (multisyllabic words flagged difficult),multisyllabic_breakdown,5-syllable; conjunct: True
+PG_EN_001,english,phoneme_grapheme,cat,kæt,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_002,english,phoneme_grapheme,dog,dɒg,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_003,english,phoneme_grapheme,top,tɒp,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_004,english,phoneme_grapheme,sit,sɪt,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_005,english,phoneme_grapheme,jump,dʒʌmp,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_006,english,phoneme_grapheme,pen,pɛn,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_007,english,phoneme_grapheme,hat,hæt,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_008,english,phoneme_grapheme,run,rʌn,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_009,english,phoneme_grapheme,bed,bɛd,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_010,english,phoneme_grapheme,plant,plænt,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_011,english,phoneme_grapheme,desk,dɛsk,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_012,english,phoneme_grapheme,milk,mɪlk,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent
+PG_EN_013,english,phoneme_grapheme,yacht,jɒt,1,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_014,english,phoneme_grapheme,knight,naɪt,2,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_015,english,phoneme_grapheme,colonel,kɜːrnəl,2,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_016,english,phoneme_grapheme,choir,kwaɪər,3,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_017,english,phoneme_grapheme,rendezvous,rɒndeɪvuː,4,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_018,english,phoneme_grapheme,gauge,geɪdʒ,2,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_019,english,phoneme_grapheme,queue,kjuː,1,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_020,english,phoneme_grapheme,isle,aɪl,2,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_021,english,phoneme_grapheme,two,tuː,1,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_022,english,phoneme_grapheme,one,wʌn,1,high,opaque,na,True,False,True,hard,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_023,english,phoneme_grapheme,said,sɛd,1,high,opaque,na,True,False,True,medium,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_024,english,phoneme_grapheme,friend,frɛnd,1,high,opaque,na,True,False,True,medium,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_EN_025,english,phoneme_grapheme,busy,bɪzi,2,high,opaque,na,True,False,True,medium,,,generated,phoneme_grapheme_mapping,orthographically opaque
+PG_BN_001,bangla,phoneme_grapheme,কাজ,kadʒ,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_002,bangla,phoneme_grapheme,ভাত,bʰat̪,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_003,bangla,phoneme_grapheme,চাল,tʃal,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_004,bangla,phoneme_grapheme,মাছ,matʃʰ,2,low,transparent,na,True,False,False,easy,,XLING_009,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_005,bangla,phoneme_grapheme,পথ,pɔt̪ʰ,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_006,bangla,phoneme_grapheme,রং,rɔŋ,1,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_007,bangla,phoneme_grapheme,নাম,nam,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_008,bangla,phoneme_grapheme,জাল,dʒal,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_009,bangla,phoneme_grapheme,দিন,d̪in,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_010,bangla,phoneme_grapheme,রাত,rat̪,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_011,bangla,phoneme_grapheme,হাত,hat̪,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_012,bangla,phoneme_grapheme,পা,pa,2,low,transparent,na,True,False,False,easy,,,generated,phoneme_grapheme_mapping,orthographically transparent; conjunct: False
+PG_BN_013,bangla,phoneme_grapheme,ক্ষমা,kʰɔma,2,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_014,bangla,phoneme_grapheme,জ্ঞান,ggʰan,2,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_015,bangla,phoneme_grapheme,ব্রহ্ম,brɔmmo,1,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_016,bangla,phoneme_grapheme,দ্বিতীয়,d̪it̪iɔ,3,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_017,bangla,phoneme_grapheme,আশ্চর্য,atʃtʃɔrdʒo,2,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_018,bangla,phoneme_grapheme,লক্ষ্য,lɔkkʰo,1,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_019,bangla,phoneme_grapheme,সত্য,ʃɔt̪to,1,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_020,bangla,phoneme_grapheme,ভিন্ন,bʰinno,2,high,opaque,na,True,True,True,hard,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_021,bangla,phoneme_grapheme,ব্যাপার,bæpar,3,high,opaque,na,True,True,True,medium,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_022,bangla,phoneme_grapheme,পদ্ম,pɔdmo,1,high,opaque,na,True,True,True,medium,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_023,bangla,phoneme_grapheme,মধ্য,mɔddʰo,1,high,opaque,na,True,True,True,medium,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_024,bangla,phoneme_grapheme,প্রিয়,priɔ,2,high,opaque,na,True,True,True,medium,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+PG_BN_025,bangla,phoneme_grapheme,সূত্র,ʃut̪ro,2,high,opaque,na,True,True,True,medium,,,Findings ch.6 (phoneme-grapheme harmonization),phoneme_grapheme_mapping,orthographically opaque; conjunct: True
+RH_EN_001,english,rhyme,cat,kæt,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_001,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_002,english,rhyme,hat,hæt,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_001,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_003,english,rhyme,ring,rɪŋ,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_002,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_004,english,rhyme,sing,sɪŋ,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_002,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_005,english,rhyme,blue,bluː,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_003,,generated,rhyme_judgment,rhymes with partner; tricky: True
+RH_EN_006,english,rhyme,shoe,ʃuː,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_003,,generated,rhyme_judgment,rhymes with partner; tricky: True
+RH_EN_007,english,rhyme,light,laɪt,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_004,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_008,english,rhyme,night,naɪt,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_004,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_009,english,rhyme,cake,keɪk,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_005,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_010,english,rhyme,lake,leɪk,1,medium,transparent,na,True,False,False,medium,PAIR_EN_RHY_005,,generated,rhyme_judgment,rhymes with partner; tricky: False
+RH_EN_011,english,rhyme,bough,baʊ,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_006,,generated,rhyme_judgment,does NOT rhyme with partner; tricky: True
+RH_EN_012,english,rhyme,though,ðoʊ,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_006,,generated,rhyme_judgment,does NOT rhyme with partner; tricky: True
+RH_EN_013,english,rhyme,love,lʌv,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_007,,generated,rhyme_judgment,does NOT rhyme with partner; tricky: True
+RH_EN_014,english,rhyme,move,muːv,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_007,,generated,rhyme_judgment,does NOT rhyme with partner; tricky: True
+RH_EN_015,english,rhyme,pint,paɪnt,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_008,,generated,rhyme_judgment,does NOT rhyme with partner; tricky: True
+RH_EN_016,english,rhyme,mint,mɪnt,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_008,,generated,rhyme_judgment,does NOT rhyme with partner; tricky: True
+RH_EN_017,english,rhyme,eye,aɪ,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_009,,generated,rhyme_judgment,rhymes with partner; tricky: True
+RH_EN_018,english,rhyme,why,waɪ,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_009,,generated,rhyme_judgment,rhymes with partner; tricky: True
+RH_EN_019,english,rhyme,through,θruː,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_010,,generated,rhyme_judgment,rhymes with partner; tricky: True
+RH_EN_020,english,rhyme,shoe,ʃuː,1,medium,opaque,na,True,False,True,hard,PAIR_EN_RHY_010,,generated,rhyme_judgment,rhymes with partner; tricky: True
+RH_BN_001,bangla,rhyme,চাঁদ,tʃãd̪,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_001,XLING_007,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_002,bangla,rhyme,বাদ,bad̪,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_001,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_003,bangla,rhyme,নদী,nɔd̪i,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_002,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_004,bangla,rhyme,মদী,mɔd̪i,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_002,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_005,bangla,rhyme,পাখি,pakʰi,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_003,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_006,bangla,rhyme,মাখি,makʰi,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_003,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_007,bangla,rhyme,কালো,kalo,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_004,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_008,bangla,rhyme,ভালো,bʰalo,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_004,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_009,bangla,rhyme,ছেলে,tʃʰele,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_005,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_010,bangla,rhyme,মেলে,mele,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_005,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,rhymes with partner
+RH_BN_011,bangla,rhyme,জল,dʒɔl,1,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_006,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_012,bangla,rhyme,মাটি,maʈi,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_006,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_013,bangla,rhyme,পথ,pɔt̪ʰ,1,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_007,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_014,bangla,rhyme,নাম,nam,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_007,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_015,bangla,rhyme,আম,am,1,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_008,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_016,bangla,rhyme,জাল,dʒal,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_008,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_017,bangla,rhyme,কাজ,kadʒ,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_009,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_018,bangla,rhyme,কাছ,katʃʰ,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_009,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_019,bangla,rhyme,দিন,d̪in,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_010,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+RH_BN_020,bangla,rhyme,দীপ,d̪ip,2,medium,transparent,na,True,False,False,medium,PAIR_BN_RHY_010,,Findings ch.6 (rhyming sentences flagged),rhyme_judgment,does NOT rhyme with partner
+SE_EN_001,english,sentence,The cat sits on the mat.,,6,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; word count 6
+SE_EN_002,english,sentence,I can see the sun.,,5,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; word count 5
+SE_EN_003,english,sentence,Birds fly in the sky.,,5,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; word count 5
+SE_EN_004,english,sentence,We eat rice for lunch.,,5,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; word count 5
+SE_EN_005,english,sentence,The dog runs fast.,,4,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; word count 4
+SE_EN_006,english,sentence,My sister plays in the garden every day.,,8,medium,opaque,na,True,True,False,medium,,,generated,sentence_processing,medium sentence; word count 8
+SE_EN_007,english,sentence,The tall man walked across the busy street.,,8,medium,opaque,na,True,True,False,medium,,,generated,sentence_processing,medium sentence; word count 8
+SE_EN_008,english,sentence,Yesterday we visited my grandmother in the village.,,8,medium,opaque,na,True,True,False,medium,,,generated,sentence_processing,medium sentence; word count 8
+SE_EN_009,english,sentence,Children should brush their teeth twice a day.,,8,medium,opaque,na,True,True,False,medium,,,generated,sentence_processing,medium sentence; word count 8
+SE_EN_010,english,sentence,The teacher explained the lesson very carefully.,,7,medium,opaque,na,True,True,False,medium,,,generated,sentence_processing,medium sentence; word count 7
+SE_EN_011,english,sentence,The pneumonia patient required immediate hospitalization.,,6,high,opaque,na,True,True,True,hard,,,generated,sentence_processing,hard sentence; word count 6
+SE_EN_012,english,sentence,She thoroughly photographed the magnificent panoramic landscape.,,7,high,opaque,na,True,True,True,hard,,,generated,sentence_processing,hard sentence; word count 7
+SE_EN_013,english,sentence,The bibliophile pronounced the indecipherable manuscript fluently.,,7,high,opaque,na,True,True,True,hard,,,generated,sentence_processing,hard sentence; word count 7
+SE_EN_014,english,sentence,Photographers captured spectacular bioluminescent phenomena underwater.,,6,high,opaque,na,True,True,True,hard,,,generated,sentence_processing,hard sentence; word count 6
+SE_EN_015,english,sentence,Phenomenologists philosophize phonological idiosyncrasies thoroughly.,,5,high,opaque,na,True,True,True,hard,,,generated,sentence_processing,hard sentence; word count 5
+SE_BN_001,bangla,sentence,আমি বই পড়ি।,,3,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; conjunct: False; word count 3
+SE_BN_002,bangla,sentence,সে স্কুলে যায়।,,3,low,opaque,na,True,True,True,easy,,,generated,sentence_processing,easy sentence; conjunct: True; word count 3
+SE_BN_003,bangla,sentence,পাখি আকাশে ওড়ে।,,3,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; conjunct: False; word count 3
+SE_BN_004,bangla,sentence,আমরা ভাত খাই।,,3,low,transparent,na,True,False,False,easy,,,generated,sentence_processing,easy sentence; conjunct: False; word count 3
+SE_BN_005,bangla,sentence,মা রান্না করেন।,,3,low,opaque,na,True,True,True,easy,,,generated,sentence_processing,easy sentence; conjunct: True; word count 3
+SE_BN_006,bangla,sentence,আমার বোন প্রতিদিন বাগানে খেলে।,,5,medium,opaque,na,True,True,True,medium,,,Findings ch.6 (sentence repetition flagged),sentence_processing,medium sentence; conjunct: True; word count 5
+SE_BN_007,bangla,sentence,লম্বা লোকটি ব্যস্ত রাস্তা পার হয়েছিল।,,6,medium,opaque,na,True,True,True,medium,,,Findings ch.6 (sentence repetition flagged),sentence_processing,medium sentence; conjunct: True; word count 6
+SE_BN_008,bangla,sentence,গতকাল আমরা গ্রামে দাদিকে দেখতে গিয়েছিলাম।,,6,medium,opaque,na,True,True,True,medium,,,Findings ch.6 (sentence repetition flagged),sentence_processing,medium sentence; conjunct: True; word count 6
+SE_BN_009,bangla,sentence,শিক্ষক ছাত্রদের পাঠ ভালোভাবে বুঝিয়ে দিলেন।,,6,medium,opaque,na,True,True,True,medium,,,Findings ch.6 (sentence repetition flagged),sentence_processing,medium sentence; conjunct: True; word count 6
+SE_BN_010,bangla,sentence,ছোট ছেলেটি প্রতিদিন সকালে দাঁত মাজে।,,6,medium,opaque,na,True,True,True,medium,,,Findings ch.6 (sentence repetition flagged),sentence_processing,medium sentence; conjunct: True; word count 6
+SE_BN_011,bangla,sentence,বিশ্ববিদ্যালয়ের ছাত্রছাত্রীরা প্রকৃতিবিজ্ঞান অধ্যয়ন করছে।,,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (sentence repetition flagged),sentence_processing,hard sentence; conjunct: True; word count 5
+SE_BN_012,bangla,sentence,শিক্ষাব্যবস্থার গুণগতমান উন্নয়নে সরকার দৃঢ়প্রতিজ্ঞ।,,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (sentence repetition flagged),sentence_processing,hard sentence; conjunct: True; word count 5
+SE_BN_013,bangla,sentence,রাজধানীর বৈজ্ঞানিক প্রতিষ্ঠানসমূহ গবেষণায় ব্যস্ত।,,5,high,opaque,na,True,True,True,hard,,,Findings ch.6 (sentence repetition flagged),sentence_processing,hard sentence; conjunct: True; word count 5
+SE_BN_014,bangla,sentence,পরিবেশবিজ্ঞানীরা জলবায়ু পরিবর্তন নিয়ে গবেষণা করছেন।,,6,high,opaque,na,True,True,True,hard,,,Findings ch.6 (sentence repetition flagged),sentence_processing,hard sentence; conjunct: True; word count 6
+SE_BN_015,bangla,sentence,পারিবারিক ঐতিহ্য রক্ষায় আমরা সকলে সচেষ্ট থাকব।,,7,high,opaque,na,True,True,True,hard,,,Findings ch.6 (sentence repetition flagged),sentence_processing,hard sentence; conjunct: True; word count 7
