@@ -8,3 +8,6 @@ dyslexia-LLM/representations/
 dyslexia-bloom/representations/
 Dyslexia-XLM-R/representations/
 
+dyslexia-mt5/dys-mt5-env/
+dyslexia-mt5/dys-mt5-env
+dyslexia-mt5/representations/
